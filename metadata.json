@@ -1,0 +1,6 @@
+{
+  "name": "Bot Cuentas Premium",
+  "description": "Bot y plataforma oficial para Servicios Digitales Premium: catálogo de 12 productos en MXN/USDT, métodos de pago Nu/Bancoppel/Binance/Mercado Pago, programa de afiliados y canalización directa a WhatsApp (+52 662 180 5354).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
